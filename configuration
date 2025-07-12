@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "sssword": "666666",
+    "sssad": "https://www.google.com",
+    "ssstop": "FFFFFF",
+    "sssbottom": "F5F5F5"
+  }
+}
